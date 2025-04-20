@@ -33,9 +33,13 @@ http://13.201.132.218:19999
 ![Screenshot (81)](https://github.com/user-attachments/assets/f4ba0006-a2b7-4b6e-9a27-7d2a5c7b132f)
 ## Setup Netdata
 ![Screenshot (82)](https://github.com/user-attachments/assets/e3dde4a1-9a06-4220-90c7-69d5355eb1f0)
+## Open netdata in browser 
 ![Screenshot (83)](https://github.com/user-attachments/assets/0228b6ee-f9e8-4fd4-a5e7-52e561bbf6fa)
+## CPU Utilization
 ![Screenshot (84)](https://github.com/user-attachments/assets/971e3528-6e62-4acf-bcdc-4ef1d8df4d6d)
+## Memory management
 ![Screenshot (88)](https://github.com/user-attachments/assets/b6cc5425-1a17-4e46-b95e-44b979cfc4cd)
+## RAM
 ![Screenshot (89)](https://github.com/user-attachments/assets/2630e6bf-2e66-412d-abb6-bb8aa47e4a45)
-![Screenshot (90)](https://github.com/user-attachments/assets/560e5167-77c8-424e-90d0-754d2cebeed6)
+## Logs 
 ![Screenshot (91)](https://github.com/user-attachments/assets/8270866c-eaea-4a8d-b00c-b6b395502f76)
