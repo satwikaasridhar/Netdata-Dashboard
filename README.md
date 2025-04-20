@@ -25,6 +25,15 @@ Port: 19999
 
 Source: Your IP (for security)
 
+
 ### Step 5: Access Netdata Dashboard
 Open a browser and visit:
 http://13.201.132.218:19999
+
+![Screenshot (81)](https://github.com/user-attachments/assets/f4ba0006-a2b7-4b6e-9a27-7d2a5c7b132f)
+![Screenshot (82)](https://github.com/user-attachments/assets/e3dde4a1-9a06-4220-90c7-69d5355eb1f0)
+![Screenshot (83)](https://github.com/user-attachments/assets/0228b6ee-f9e8-4fd4-a5e7-52e561bbf6fa)
+![Screenshot (84)](https://github.com/user-attachments/assets/971e3528-6e62-4acf-bcdc-4ef1d8df4d6d)
+![Screenshot (86)](https://github.com/user-attachments/assets/9712b7ea-9a74-407e-a887-776f978a3098)
+
+
